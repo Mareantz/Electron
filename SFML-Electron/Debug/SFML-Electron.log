@@ -1,0 +1,328 @@
+﻿  Interface_Object.cpp
+C:\Electron\electron\SFML-Electron\Interface_Object.h(171,15): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(178,10): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(210,15): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(217,10): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(250,15): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(257,10): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(324,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Electron\electron\SFML-Electron\Interface_Object.h(328,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Electron\electron\SFML-Electron\Interface_Object.h(294,15): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(301,10): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(314,15): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(321,10): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(358,15): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(365,10): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(431,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Electron\electron\SFML-Electron\Interface_Object.h(435,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Electron\electron\SFML-Electron\Interface_Object.h(401,15): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(408,10): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(421,15): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(428,10): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(496,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Electron\electron\SFML-Electron\Interface_Object.h(500,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Electron\electron\SFML-Electron\Interface_Object.h(466,15): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(473,10): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(486,15): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(493,10): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(561,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Electron\electron\SFML-Electron\Interface_Object.h(565,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Electron\electron\SFML-Electron\Interface_Object.h(531,15): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(538,10): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(551,15): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(558,10): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(594,15): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(601,10): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(770,21): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+C:\Electron\electron\SFML-Electron\Interface_Object.h(171,15): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(178,10): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(210,15): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(217,10): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(250,15): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(257,10): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(324,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Electron\electron\SFML-Electron\Interface_Object.h(328,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Electron\electron\SFML-Electron\Interface_Object.h(294,15): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(301,10): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(314,15): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(321,10): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(358,15): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(365,10): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(431,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Electron\electron\SFML-Electron\Interface_Object.h(435,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Electron\electron\SFML-Electron\Interface_Object.h(401,15): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(408,10): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(421,15): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(428,10): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(496,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Electron\electron\SFML-Electron\Interface_Object.h(500,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Electron\electron\SFML-Electron\Interface_Object.h(466,15): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(473,10): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(486,15): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(493,10): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(561,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Electron\electron\SFML-Electron\Interface_Object.h(565,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Electron\electron\SFML-Electron\Interface_Object.h(531,15): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(538,10): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(551,15): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(558,10): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(594,15): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(601,10): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Electron\electron\SFML-Electron\Interface_Object.h(770,21): warning C4018: '<': signed/unsigned mismatch
+C:\Electron\electron\SFML-Electron\Source.cpp(193,76): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(193,57): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(196,77): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(196,58): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(199,70): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(199,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(202,70): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(202,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(205,75): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(205,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(207,79): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(207,57): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(209,75): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(209,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(211,76): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(211,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(213,75): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(213,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(215,80): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(215,58): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(217,80): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(217,58): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(219,81): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(219,59): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(221,75): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(221,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(225,75): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(225,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(227,75): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(227,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(229,76): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(229,55): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(231,74): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(231,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(233,76): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(233,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(235,75): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(235,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(239,75): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(239,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(241,75): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(241,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(243,75): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(243,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(245,76): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(245,55): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(250,70): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(250,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(256,70): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(256,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Electron\electron\SFML-Electron\Source.cpp(304,152): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  Generating Code...
